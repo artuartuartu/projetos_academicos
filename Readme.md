@@ -1,0 +1,1 @@
+Espaço destinado a armazenar meus projetos, avaliações, testes, e atividades relacionadas ao curso de Ciência da Computação
